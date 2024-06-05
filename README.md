@@ -14,7 +14,7 @@ Must:
 Als gebruiker wil ik alle oefeningen kunnen bekijken via een mobile application (op smartphone).
 lijst met oefeningen lijst komt uit api
 menu met, setting, back to home en help
--	Als gebruiker wil ik een about scherm waarin een korte uitleg staat van de app, versienummer en een verwijzing voor help.
+about scherm waarin een korte uitleg staat van de app, versienummer en een verwijzing voor help.
 Als gebruiker wil ik kunnen inloggen in de app zodat ik mijn prestaties kan bekijken. Deze functionaliteit hoeft niet te werken in de mobile application. Er mag een aparte (web) applicatie gemaakt worden. Beveiliging (tokens) is hierbij wel vereist. Deze functionaliteit mag dus apart worden opgeleverd (als een soort “proof of concept”). De onderstaande elementen horen hierbij.
 -	Als gebruiker wil ik een nieuwe prestatie kunnen toevoegen.
 -	Als gebruiker wil ik een bestaande prestatie kunnen wijzigen.
