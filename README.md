@@ -6,7 +6,7 @@ de gebruiker zich kunnen aanmelden en kunnen inloggen.
 - inloggen
 - acc gegevens zien
 
-
+home: wat staat er op de homepage idk
 
  
 Gebruikers deel:
