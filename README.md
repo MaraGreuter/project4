@@ -6,34 +6,8 @@ de gebruiker zich kunnen aanmelden en kunnen inloggen.
 - inloggen
 - acc gegevens zien
 
-Beheerder deel:
-Must
-•	Als beheerder wil ik een overzicht zien van alle oefeningen.
-•	Als beheerder wil ik in de oefeningenlijst een knop “bewerken” zodat ik een oefening kan kiezen om te bewerken.
-•	Als beheerder wil ik in de oefeningenlijst een knop zodat ik een oefening kan verwijderen.
-•	Als beheerder wil ik nadat ik een oefening heb gekozen, de oefening kunnen aanpassen. De oefening bestaat uit een titel (naam van de oefening), een Nederlandstalige instructie (uitgebreide beschrijving) en een vertaling van de instructie in het Engels. De oefeningenlijst is onderaan dit document toegevoegd. De instructies moeten zelf aangemaakt worden.
-•	Als beheerder wil ik bovenaan de oefeningen lijst een knop zodat ik een nieuwe oefening kan toevoegen.
-•	Als beheerder wil ik een overzicht van alle gebruikers.
-•	Als beheerder wil ik in de gebruikerslijst een knop “bewerken” zodat ik een gebruiker kan kiezen om te bewerken.
-•	Als beheerder wil ik in de gebruikerslijst een knop zodat ik een gebruiker kan verwijderen.
-•	Als beheerder wil ik nadat ik een gebruiker heb gekozen, de gebruiker kunnen aanpassen.
-•	Als beheerder wil ik boven aan de gebruikers lijst een knop zodat ik een nieuwe gebruiker kan toevoegen.
-•	Als beheerder wil ik een menu zodat ik de bovenstaande opties allemaal kan uitvoeren.
 
-Should
-•	Als beheerder wil ik een overzicht van alle prestaties per gebruiker.
 
-Could
-•	Als beheerder wil ik bij de oefeningen een knop waarmee ik een QR code kan aanmaken en printen. De QR code is bedoeld voor gebruikers om meteen naar de oefening te springen.
-
-Won’t have
-•	Als beheerder wil ik de oefeningen op vaste locaties in de school vast pinnen. Dus een latitude/longitude toevoegen aan een oefening.
- 
-Api deel:
-Must
-•	Als programmeur wil ik een api get kunnen maken die alle oefeningen terug geeft (niet beveiligd).
-•	Als programmeur wil ik een api get kunnen maken die alle prestaties per gebruiker terug geeft (beveiligd).
-•	Als programmeur wil ik een api post, put en delete kunnen maken voor oefeningen en prestaties die wel beveiligd zijn.
  
 Gebruikers deel:
 Must:
