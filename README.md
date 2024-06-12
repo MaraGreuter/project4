@@ -4,7 +4,11 @@ Must
 •	 een overzicht zien van alle oefeningen.
 •	 in de oefeningenlijst een knop “bewerken” zodat ik een oefening kan kiezen om te bewerken.
 •	 een knop zodat ik een oefening kan verwijderen.
-•	nadat ik een oefening heb gekozen, de oefening kunnen aanpassen. De oefening bestaat uit een titel (naam van de oefening), een Nederlandstalige instructie (uitgebreide beschrijving) en een vertaling van de instructie in het Engels. De oefeningenlijst is onderaan dit document toegevoegd. De instructies moeten zelf aangemaakt worden.
+
+•	nadat ik een oefening heb gekozen, de oefening kunnen aanpassen. 
+
+(De oefening bestaat uit een titel (naam van de oefening), een Nederlandstalige instructie (uitgebreide beschrijving) en een vertaling van de instructie in het Engels. De oefeningenlijst is onderaan dit document toegevoegd. De instructies moeten zelf aangemaakt worden.)
+
 •	 bovenaan de oefeningen lijst een knop zodat ik een nieuwe oefening kan toevoegen.
 
 •	Als beheerder wil ik een overzicht van alle gebruikers.
@@ -17,17 +21,13 @@ Must
 Should
 •	Als beheerder wil ik een overzicht van alle prestaties per gebruiker.
 
-Could
-•	Als beheerder wil ik bij de oefeningen een knop waarmee ik een QR code kan aanmaken en printen. De QR code is bedoeld voor gebruikers om meteen naar de oefening te springen.
-
-Won’t have
-•	Als beheerder wil ik de oefeningen op vaste locaties in de school vast pinnen. Dus een latitude/longitude toevoegen aan een oefening.
  
 Api deel:
 Must
 •	Als programmeur wil ik een api get kunnen maken die alle oefeningen terug geeft (niet beveiligd).
 •	Als programmeur wil ik een api get kunnen maken die alle prestaties per gebruiker terug geeft (beveiligd).
 •	Als programmeur wil ik een api post, put en delete kunnen maken voor oefeningen en prestaties die wel beveiligd zijn.
+
 
 APP
 in de app moet een gebruiker een overzicht krijgen van alle oefeningen. Daarnaast moet
@@ -38,7 +38,7 @@ de gebruiker zich kunnen aanmelden en kunnen inloggen.
 - inloggen
 - acc gegevens zien
 
-home: wat staat er op de homepage idk
+
 
  
 Gebruikers deel:
